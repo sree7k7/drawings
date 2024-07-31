@@ -68,7 +68,7 @@
           <mxGeometry x="145" y="620" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DsVrbT6WjKobtutrEUCz-9" value="If score greater than 21" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="145" y="710" width="145" height="60" as="geometry" />
+          <mxGeometry x="145" y="720" width="145" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
